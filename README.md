@@ -14,3 +14,5 @@ A virtual trading app built with django as backend and javascript,html,css for f
 ### To delete all data and start afresh in case of some error:
 
 `python manage.py flush`
+
+- **Live Website** - http://jkiio.pythonanywhere.com/
